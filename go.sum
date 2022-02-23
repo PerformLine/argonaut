@@ -1,8 +1,8 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/NYTimes/gziphandler v0.0.0-20170623195520-56545f4a5d46/go.mod h1:3wb06e3pkSAbeQ52E9H9iFoQsEEwGN64994WTCIhntQ=
-github.com/PerformLine/go-stockutil v1.9.3-0.20220222201122-cc24eac52267 h1:13mF2ZtrDF5a5WPNAqmrB9K0X29laMOgo5GCpy2CgKk=
-github.com/PerformLine/go-stockutil v1.9.3-0.20220222201122-cc24eac52267/go.mod h1:4/8PF9Dp9BKke9UuDczslbKnZS0mj5dBLvJVNxEJvPw=
+github.com/PerformLine/go-stockutil v1.9.3 h1:6Mty9/Zuy4LKtqn4qDJSfjnYEGsjNpIdTgqb4tHDNfI=
+github.com/PerformLine/go-stockutil v1.9.3/go.mod h1:4/8PF9Dp9BKke9UuDczslbKnZS0mj5dBLvJVNxEJvPw=
 github.com/PuerkitoBio/purell v1.1.1/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
 github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578/go.mod h1:uGdkoq3SwY9Y+13GIhn11/XLaGBb4BfwItxLd5jeuXE=
 github.com/asaskevich/govalidator v0.0.0-20190424111038-f61b66f89f4a/go.mod h1:lB+ZfQJz7igIIfQNfa7Ml4HSf2uFQQRzpGGRXenZAgY=

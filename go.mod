@@ -3,7 +3,7 @@ module github.com/PerformLine/argonaut
 go 1.17
 
 require (
-	github.com/PerformLine/go-stockutil v1.9.3-0.20220222201122-cc24eac52267
+	github.com/PerformLine/go-stockutil v1.9.3
 	github.com/fatih/structs v1.1.0
 	github.com/stretchr/testify v1.7.0
 )
